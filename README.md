@@ -1,7 +1,7 @@
 
-## About EASYCLUB
+## About SMARTCLUB
 
-EASYCLUB is just a game for blockchain,see [https://ecgame.github.io](https://ecgame.github.io/).
+SMARTCLUB is just a game for blockchain,see [https://scgame.github.io](https://scgame.github.io/).
 
 ## Rule analysis
 
